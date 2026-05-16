@@ -11,7 +11,6 @@ canonical_link: "https://medium.com/@kyle-t-jones/5-goals-of-a-strong-data-manag
 Simplify the process of analyzing vital business information.
 
 
-<figcaption>Credit: DALL·E mini by <a href="https://www.craiyon.com/" class="markup--anchor markup--figure-anchor" data-href="https://www.craiyon.com/" rel="noopener" target="_blank">craiyon.com</a></figcaption>
 
 
 Whether due to the adversities caused by the crisis or the fierce competitiveness of the market, it is essential to analyze all aspects of your business. This action allows you to understand how to position yourself before your customers and more, it stimulates advantages over your competition. However, there is no point in having an absurd amount of data, because if it cannot be transformed into relevant information, it offers little to the business.
